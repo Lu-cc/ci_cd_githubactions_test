@@ -1,4 +1,7 @@
 print("Hello Luca")
 
 def calc (a,b):
-    pass
+    if a == 2:
+        return a + b
+    
+
